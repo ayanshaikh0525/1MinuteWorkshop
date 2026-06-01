@@ -25,3 +25,54 @@ def get_youtube_service():
         "v3",
         credentials=credentials
     )
+
+
+def upload_youtube_video(
+    video_path,
+    title,
+    description,
+    tags=None
+):
+
+    if tags is None:
+        tags = []
+
+    youtube = get_youtube_service()
+
+    body = {
+        "snippet": {
+            "title": title,
+            "description": description,
+            "tags": tags,
+            "categoryId": "22"
+        },
+        "status": {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": False
+        }
+    }
+
+    media = MediaFileUpload(
+        video_path,
+        resumable=True,
+        chunksize=-1
+    )
+
+    request = youtube.videos().insert(
+        part="snippet,status",
+        body=body,
+        media_body=media
+    )
+
+    response = None
+
+    while response is None:
+
+        status, response = request.next_chunk()
+
+        if status:
+            print(
+                f"Upload Progress: {int(status.progress() * 100)}%"
+            )
+
+    return response["id"]
