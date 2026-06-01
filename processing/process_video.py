@@ -100,3 +100,32 @@ def process_video(video_record):
             "processed_link": processed_link,
             "analysis": analysis
         }
+
+
+
+
+def update_video_record(
+    video_id,
+    processed_file_id,
+    processed_link,
+    analysis
+):
+
+    videos = load_videos()
+
+    for video in videos:
+
+        if video["id"] == video_id:
+
+            video["source"]["deleted"] = True
+
+            video["processed"] = {
+                "exists": True,
+                "drive_file_id": processed_file_id,
+                "drive_link": processed_link,
+                "analysis": analysis
+            }
+
+            break
+
+    save_videos(videos)
