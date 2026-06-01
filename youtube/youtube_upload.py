@@ -38,13 +38,16 @@ def upload_youtube_video(
         tags = []
 
     youtube = get_youtube_service()
-
+    
+    if "#shorts" not in title.lower():
+        title += " #Shorts"
+    
     body = {
         "snippet": {
             "title": title,
             "description": description,
             "tags": tags,
-            "categoryId": "22"
+            "categoryId": "26"
         },
         "status": {
             "privacyStatus": "public",
