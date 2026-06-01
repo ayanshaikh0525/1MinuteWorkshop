@@ -116,3 +116,19 @@ def get_drive_link(file_id):
         f"https://drive.google.com/file/d/"
         f"{file_id}/view"
     )
+
+
+
+# Download Processed Video
+
+def download_processed_video(
+    video_record,
+    output_path
+):
+
+    download_file(
+        video_record["processed"]["drive_file_id"],
+        output_path
+    )
+
+    return output_path
