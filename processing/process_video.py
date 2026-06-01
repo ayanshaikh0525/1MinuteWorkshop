@@ -88,11 +88,15 @@ def process_video(video_record):
             source_file_id
         )
 
-        update_video_record(
-            video_record["id"],
-            processed_file_id,
-            processed_link,
-            analysis
+        mark_processing_completed(
+            video_id=video_record["id"],
+            processed_file_id=processed_id,
+            processed_link=processed_link,
+            analysis=analysis
+        )
+        
+        mark_source_deleted(
+            video_record["id"]
         )
 
         return {
