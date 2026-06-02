@@ -58,6 +58,8 @@ jobs:
           echo "${{ secrets.DRIVE_CLIENT_SECRET }}" | base64 -d > auth/drive_client_secret.json
       
           echo "${{ secrets.DRIVE_TOKEN }}" | base64 -d > auth/drive_token.json
+
+          echo "${{ secrets.DRIVE_SERVICE_ACCOUNT_JSON }}" | base64 -d > auth/drive_service_account.json
     
       - name: Check Auth Files
         run: |
