@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-watermark_path = "../assets/watermark.png"
+watermark_path = "assets/watermark.png"
 
 def add_watermark(
     video_path,
