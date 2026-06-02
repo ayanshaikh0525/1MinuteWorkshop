@@ -26,10 +26,6 @@ def get_processed_video_for_platform(
     if not candidates:
         return None
 
-    candidates.sort(
-    key=lambda x: x["workflow"]["updated_at"]
-)
-
     return candidates[0]
 
 
