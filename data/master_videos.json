@@ -2174,17 +2174,40 @@
     "source": {
       "filename": "(Wood)(892) Reels_YB_Bundle.mp4",
       "drive_file_id": "16cZqDQjN1DYwUJsyoN2Lwjsd1iGo6Azc",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1rPbjM85ZjlBR7V0IcYzot8PbBV-S4bAS",
+      "drive_link": "https://drive.google.com/file/d/1rPbjM85ZjlBR7V0IcYzot8PbBV-S4bAS/view",
+      "analysis": {
+        "category": "DIY / Life Hacks / Workshop Tips",
+        "project": "Practical DIY Tool Hacks & Tricks",
+        "summary": "This video features a series of DIY tips and tricks, showcasing clever ways to use common tools for various tasks. It includes demonstrations on safely hammering a nail using pliers, removing nails with pincers and an adjustable wrench, drawing a perfect circle on wood, and highlights a bicycle kickstand mechanism. The video focuses on practical solutions for everyday workshop challenges.",
+        "materials": [
+          "Bicycle kickstand (for demonstration)",
+          "Plywood / Wood planks",
+          "Nails",
+          "Marker",
+          "Small metal object (e.g., coin/washer, for demonstration)"
+        ],
+        "tools": [
+          "Hammer",
+          "Pliers",
+          "Pincers / Nail puller",
+          "Adjustable wrench",
+          "Screwdriver (for demonstration)"
+        ],
+        "viral_hook": "Genius Tool Hacks You WISH You Knew Sooner! Master These DIY Tricks to Make Your Projects Easier!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BpnEiMnkLKw",
+        "uploaded_at": "2026-06-02T11:21:46.484741",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2198,6 +2221,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-02T11:21:29.942201",
+      "source_deleted": "2026-06-02T11:21:29.945691"
     }
   },
   {
