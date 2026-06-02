@@ -100,7 +100,7 @@ def process_video(video_record):
 
         mark_processing_completed(
             video_id=video_record["id"],
-            processed_file_id=processed_id,
+            processed_file_id=processed_file_id,
             processed_link=processed_link,
             analysis=analysis
         )
