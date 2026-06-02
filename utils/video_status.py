@@ -1,9 +1,17 @@
 from datetime import datetime
 
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT))
+
 from utils.json_utils import (
     load_videos,
     save_videos
 )
+
+
 
 
 def now():
