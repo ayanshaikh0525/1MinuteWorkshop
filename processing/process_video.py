@@ -29,6 +29,9 @@ from config.settings import (
 )
 
 
+WATERMARK_PATH = ROOT / "assets" / "watermark.png"
+
+
 def process_video(video_record):
 
     source_file_id = video_record["source"]["drive_file_id"]
@@ -73,7 +76,7 @@ def process_video(video_record):
 
         add_watermark(
             original_video,
-            "assets/watermark.png",
+            WATERMARK_PATH,
             watermarked_video
         )
 
