@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 
-TOKEN_FILE = "auth/token.json"
+TOKEN_FILE = "../auth/token.json"
 
 
 def get_youtube_service():
