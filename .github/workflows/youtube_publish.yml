@@ -36,10 +36,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check Auth Files
-        run: |
-          ls -la auth
-          wc -c auth/service_account.json
+
 
       - name: Create Service Account File
         run: |
@@ -52,6 +49,11 @@ jobs:
       - name: Restore YouTube Token
         run: |
           echo "${{ secrets.YOUTUBE_TOKEN }}" | base64 -d > auth/token.json
+
+      - name: Check Auth Files
+        run: |
+          ls -la auth
+          wc -c auth/service_account.json
 
       - name: Run Publisher
         env:
