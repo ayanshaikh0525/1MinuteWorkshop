@@ -2,6 +2,12 @@
 import os
 import tempfile
 
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT))
+
 from drive.drive_utils import (
     download_file,
     upload_file,
