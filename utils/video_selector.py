@@ -1,12 +1,12 @@
 import random
-
-from utils.json_utils import load_videos
-
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.append(str(ROOT))
+
+from utils.json_utils import load_videos
+
 
 def get_processed_video_for_platform(
     platform
