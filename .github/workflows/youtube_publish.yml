@@ -50,6 +50,15 @@ jobs:
         run: |
           echo "${{ secrets.YOUTUBE_TOKEN_JSON }}" | base64 -d > auth/token.json
 
+
+      - name: Restore Drive OAuth
+        run: |
+          mkdir -p auth
+      
+          echo "${{ secrets.DRIVE_CLIENT_SECRET }}" | base64 -d > auth/drive_client_secret.json
+      
+          echo "${{ secrets.DRIVE_TOKEN }}" | base64 -d > auth/drive_token.json
+    
       - name: Check Auth Files
         run: |
           ls -la auth
