@@ -2608,17 +2608,35 @@
     "source": {
       "filename": "(Wood)(907) Reels_YB_Bundle.mp4",
       "drive_file_id": "1bMRsC0r47wwHEzN-5h1SffW_6xA_wGKi",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1a6g_pH3Ci7RzCm8VyoKGd4tDn7s7jUiR",
+      "drive_link": "https://drive.google.com/file/d/1a6g_pH3Ci7RzCm8VyoKGd4tDn7s7jUiR/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Making a Custom Wooden Dowel",
+        "summary": "A roughly cut wooden stick is transformed into a smooth, uniformly sized wooden dowel by being pushed through a specialized cutting die, which is securely held in a bench vise. The process effectively shaves off excess material from the wood, resulting in a clean, round rod and a pile of fine wood shavings.",
+        "materials": [
+          "Rough wooden stick/rod",
+          "Wood shavings (byproduct)"
+        ],
+        "tools": [
+          "Bench vise",
+          "Dowel maker die (or specialized wood shaper/cutter tool, appearing as a metal ring with an internal cutting edge)",
+          "Hands (for manipulating the wood)"
+        ],
+        "viral_hook": "Transform rough wood into perfectly smooth, uniform dowels with this incredibly satisfying and simple DIY technique! Witness the clever way a custom cutting tool and a vise make precision woodworking surprisingly easy and leave you with perfectly shaped rods."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4pcde0Ln0Lg",
+        "uploaded_at": "2026-06-02T11:16:21.048228",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2632,6 +2650,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-02T11:16:04.367062",
+      "source_deleted": "2026-06-02T11:16:04.370614"
     }
   },
   {
