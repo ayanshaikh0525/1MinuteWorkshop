@@ -55,10 +55,16 @@ jobs:
         run: |
           mkdir -p auth
       
+      - name: Restore Drive Client Secret
+        run: |
           echo "${{ secrets.DRIVE_CLIENT_SECRET }}" | base64 -d > auth/drive_client_secret.json
       
+      - name: Restore Drive Token
+        run: |
           echo "${{ secrets.DRIVE_TOKEN }}" | base64 -d > auth/drive_token.json
-
+      
+      - name: Restore Service Account
+        run: |
           echo "${{ secrets.DRIVE_SERVICE_ACCOUNT_JSON }}" | base64 -d > auth/drive_service_account.json
     
       - name: Check Auth Files
