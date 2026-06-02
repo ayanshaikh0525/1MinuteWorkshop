@@ -27,6 +27,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Remove broken Chrome repo
+        run: |
+          sudo rm -f /etc/apt/sources.list.d/google-chrome.list
+      
       - name: Install FFmpeg
         run: |
           sudo apt-get update
