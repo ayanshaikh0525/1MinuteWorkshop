@@ -1,6 +1,12 @@
 import os
 import tempfile
 
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT))
+
 from utils.video_selector import (
     get_processed_video_for_platform,
     get_random_unprocessed_video
