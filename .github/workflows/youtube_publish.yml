@@ -56,7 +56,7 @@ jobs:
           PROCESSED_FOLDER_ID: ${{ secrets.PROCESSED_FOLDER_ID }}
 
         run: |
-          python workers/publish_youtube.py
+          cd workers && python publish_youtube.py
 
       - name: Commit Updated JSON
         run: |
