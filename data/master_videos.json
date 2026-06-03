@@ -1803,17 +1803,33 @@
     "source": {
       "filename": "(Wood)(878) Reels_YB_Bundle.mp4",
       "drive_file_id": "1h-r6itWTctHZ7Tp9pbEmMxBO5glEYTES",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1qSmEEi8Sm1NSx7C-R76BzdZbj7TB3ofx",
+      "drive_link": "https://drive.google.com/file/d/1qSmEEi8Sm1NSx7C-R76BzdZbj7TB3ofx/view",
+      "analysis": {
+        "category": "DIY/Handyman",
+        "project": "Removing a stuck nail from pliers using a bench vise",
+        "summary": "The video demonstrates a practical trick for removing a nail that has become stuck or embedded in the jaws of a pair of pliers. By using a bench vise to hold the pliers steady, the user can apply force to safely extract the nail.",
+        "materials": [
+          "Nail (stuck in pliers)"
+        ],
+        "tools": [
+          "Pliers",
+          "Bench vise"
+        ],
+        "viral_hook": "Don't throw away your pliers! Here's how to fix a stuck nail in seconds."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zYd03vpz9Co",
+        "uploaded_at": "2026-06-03T22:12:57.141956",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1827,6 +1843,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T22:12:53.896544",
+      "source_deleted": "2026-06-03T22:12:53.900281"
     }
   },
   {
