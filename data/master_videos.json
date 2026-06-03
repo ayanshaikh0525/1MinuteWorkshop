@@ -190,17 +190,32 @@
     "source": {
       "filename": "(Wood)(698) Reels_YB_Bundle.mp4",
       "drive_file_id": "15QBFdfJpwL54OJldPjLPR458iptb3bZv",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1zMi9GKFMKgFgu1gSYjQ4QvK_yaLIKnko",
+      "drive_link": "https://drive.google.com/file/d/1zMi9GKFMKgFgu1gSYjQ4QvK_yaLIKnko/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Chiseling wood",
+        "summary": "A close-up demonstration of using a high-quality, patterned-steel chisel to remove thin, precise shavings from a block of light-colored wood.",
+        "materials": [
+          "Wood block"
+        ],
+        "tools": [
+          "Damascus steel chisel"
+        ],
+        "viral_hook": "Satisfying, ultra-sharp precision woodworking that highlights the incredible edge retention and beauty of a Damascus steel tool."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Y6qUXYbshW0",
+        "uploaded_at": "2026-06-03T10:23:47.711686",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -214,6 +229,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T10:23:43.823829",
+      "source_deleted": "2026-06-03T10:23:43.827634"
     }
   },
   {
