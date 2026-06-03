@@ -1151,17 +1151,35 @@
     "source": {
       "filename": "(Wood)(859) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Z-wWiU20Ope4YckJ5dDTLPspqxucv-3K",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1HINa4HfzGq9DtqdBojL_fO5LjxpZB3u1",
+      "drive_link": "https://drive.google.com/file/d/1HINa4HfzGq9DtqdBojL_fO5LjxpZB3u1/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Counter-sinking a screw to prevent wood splitting",
+        "summary": "The video demonstrates the correct way to drive a wood screw into the end grain of a board. Initially, a screw is driven directly into the wood, causing a split. Then, a counter-sink bit is used to create a pilot hole and a recess, allowing the second screw to be driven without causing further damage to the wood.",
+        "materials": [
+          "Wood block",
+          "Wood screws"
+        ],
+        "tools": [
+          "Cordless drill",
+          "Counter-sink drill bit",
+          "Clamps"
+        ],
+        "viral_hook": "Stop splitting your wood! Do this instead."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9LppOGj7aok",
+        "uploaded_at": "2026-06-03T06:11:57.566104",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1175,6 +1193,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T06:11:53.649771",
+      "source_deleted": "2026-06-03T06:11:53.653526"
     }
   },
   {
