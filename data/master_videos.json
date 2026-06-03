@@ -333,17 +333,35 @@
     "source": {
       "filename": "(Wood)(745) Reels_YB_Bundle.mp4",
       "drive_file_id": "1ph_kCk5vUE60OqSIEU_fe_IeFmHkUMNU",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1lxTR8bNSHI70LWYb37s7GMuQ5rsxPzGg",
+      "drive_link": "https://drive.google.com/file/d/1lxTR8bNSHI70LWYb37s7GMuQ5rsxPzGg/view",
+      "analysis": {
+        "category": "Woodworking/Crafts",
+        "project": "Hand-carved wooden heart",
+        "summary": "A step-by-step demonstration of carving a wooden heart from a block of wood using a specialized carving knife, followed by painting the finished piece in vibrant red and pink colors.",
+        "materials": [
+          "Wooden block",
+          "Red paint",
+          "Pink paint"
+        ],
+        "tools": [
+          "Carving knife",
+          "Paintbrush"
+        ],
+        "viral_hook": "See the mesmerizing process of turning a raw block of wood into a perfectly carved heart in seconds."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ICo5HxIRTW8",
+        "uploaded_at": "2026-06-03T19:10:15.140110",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -357,6 +375,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T19:10:11.386244",
+      "source_deleted": "2026-06-03T19:10:11.389899"
     }
   },
   {
