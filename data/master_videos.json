@@ -1998,17 +1998,37 @@
     "source": {
       "filename": "(Wood)(885) Reels_YB_Bundle.mp4",
       "drive_file_id": "1jQlDqG8HpsL5N4ZajaONyLm227_3ezPn",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1dhdO5F8ZNuVFiT929e9Y1ATsVZqfUWUm",
+      "drive_link": "https://drive.google.com/file/d/1dhdO5F8ZNuVFiT929e9Y1ATsVZqfUWUm/view",
+      "analysis": {
+        "category": "Woodworking & DIY",
+        "project": "DIY Furniture Joint/Repair",
+        "summary": "A video tutorial demonstrating how to measure and cut wooden pieces for a corner joint, and how to use screws and hardware for assembly.",
+        "materials": [
+          "Wood boards/planks",
+          "Metal mounting ring",
+          "Screws"
+        ],
+        "tools": [
+          "Pencil",
+          "Power drill",
+          "Screwdriver",
+          "Adjustable wrench"
+        ],
+        "viral_hook": "Stop struggling with crooked joints! Learn this simple trick for perfect corner alignments every time."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "U7NXC0V1FdA",
+        "uploaded_at": "2026-06-03T15:19:29.614954",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2022,6 +2042,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-03T15:19:25.604568",
+      "source_deleted": "2026-06-03T15:19:25.608463"
     }
   },
   {
