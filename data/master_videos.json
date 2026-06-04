@@ -1744,17 +1744,35 @@
     "source": {
       "filename": "(Wood)(874) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Nd8Bq_1qdbmHaxtgFZFuJjvjl5PXrOsQ",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1jmeYrssaE1c5PRYH7LHIPQ2mOJRVRw8i",
+      "drive_link": "https://drive.google.com/file/d/1jmeYrssaE1c5PRYH7LHIPQ2mOJRVRw8i/view",
+      "analysis": {
+        "category": "DIY Woodworking Hacks",
+        "project": "Filling a wood hole/slot with hot glue",
+        "summary": "This video demonstrates a quick DIY technique for filling an unwanted slot or hole in a piece of wood using a hot glue stick and then driving a screw into the hardened glue to create a custom anchor point.",
+        "materials": [
+          "Wood block",
+          "Hot glue stick"
+        ],
+        "tools": [
+          "Hot glue gun (implied)",
+          "Power drill/driver",
+          "Screw"
+        ],
+        "viral_hook": "Stop throwing away wood with mistakes! This simple hot glue hack saves your project in seconds."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "-QRn1A_LUBo",
+        "uploaded_at": "2026-06-04T12:30:04.534322",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1768,6 +1786,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T12:30:00.865572",
+      "source_deleted": "2026-06-04T12:30:00.869436"
     }
   },
   {
