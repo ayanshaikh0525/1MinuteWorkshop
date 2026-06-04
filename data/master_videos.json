@@ -1670,17 +1670,33 @@
     "source": {
       "filename": "(Wood)(873) Reels_YB_Bundle.mp4",
       "drive_file_id": "1m4-qsGavRq7uDI0GTifAU817m7QtHC1f",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1umS7zqvJWNo0ylwhxpmj_Q4pGW-56dpJ",
+      "drive_link": "https://drive.google.com/file/d/1umS7zqvJWNo0ylwhxpmj_Q4pGW-56dpJ/view",
+      "analysis": {
+        "category": "DIY Crafts",
+        "project": "Cardboard crafting/Precision cutting",
+        "summary": "The creator demonstrates a precision cutting technique on a piece of cardboard using a utility knife, removing a small triangular corner section.",
+        "materials": [
+          "Cardboard sheet"
+        ],
+        "tools": [
+          "Utility knife",
+          "Pliers"
+        ],
+        "viral_hook": "Stop cutting cardboard the wrong way! This simple trick will change your DIY projects forever."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "yiLC9qimzaQ",
+        "uploaded_at": "2026-06-04T05:24:02.664185",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1694,6 +1710,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T05:23:58.387867",
+      "source_deleted": "2026-06-04T05:23:58.391670"
     }
   },
   {
