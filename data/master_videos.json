@@ -479,17 +479,36 @@
     "source": {
       "filename": "(Wood)(772) Reels_YB_Bundle.mp4",
       "drive_file_id": "1JRqgI82i8JiWFLEk8qlurPSWvP7y2kKh",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1vWmiMIxChye5xSMMlFltNHPZurhkjUYL",
+      "drive_link": "https://drive.google.com/file/d/1vWmiMIxChye5xSMMlFltNHPZurhkjUYL/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Carving and painting a wooden mushroom figure",
+        "summary": "The video demonstrates the process of hand-carving a mushroom sculpture from wood, including detailing the cap, adding fine ridges, and painting it with a cute facial expression.",
+        "materials": [
+          "Wood block",
+          "Acrylic paint",
+          "Varnish/Sealant"
+        ],
+        "tools": [
+          "Chisel",
+          "Carving gouge",
+          "Paintbrush"
+        ],
+        "viral_hook": "Watch this satisfying wood carving process turn a plain block of wood into an adorable character."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "vn7t9x6x6Kg",
+        "uploaded_at": "2026-06-04T09:13:46.528433",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -503,6 +522,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T09:13:42.383439",
+      "source_deleted": "2026-06-04T09:13:42.387211"
     }
   },
   {
