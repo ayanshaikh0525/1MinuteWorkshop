@@ -834,17 +834,36 @@
     "source": {
       "filename": "(Wood)(837) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Ckf8DNuxYU8NN0lFdcJyvk1PQtUjCQJY",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1NU3XMfHzNA5O_4lrJ1FywacJ13RTSeK1",
+      "drive_link": "https://drive.google.com/file/d/1NU3XMfHzNA5O_4lrJ1FywacJ13RTSeK1/view",
+      "analysis": {
+        "category": "DIY Woodworking",
+        "project": "Joining plywood panels with screws",
+        "summary": "This tutorial demonstrates the proper technique for joining two pieces of plywood at a corner. The process involves pre-drilling pilot holes, counter-sinking, and driving screws to securely fasten the panels together.",
+        "materials": [
+          "Plywood panels",
+          "Wood screws"
+        ],
+        "tools": [
+          "Power drill",
+          "Drill bit",
+          "Countersink bit",
+          "Phillips head screwdriver bit"
+        ],
+        "viral_hook": "Stop splitting your plywood! Here is the professional way to join corner panels every single time."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "K7s6gG-q3qo",
+        "uploaded_at": "2026-06-04T20:59:49.108524",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -858,6 +877,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T20:59:45.656393",
+      "source_deleted": "2026-06-04T20:59:45.660369"
     }
   },
   {
