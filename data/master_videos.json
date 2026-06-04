@@ -696,17 +696,35 @@
     "source": {
       "filename": "(Wood)(82) Reels_YB_Bundle.mp4",
       "drive_file_id": "1PypTVxfPWNbadbXvPrteNENJFuqSEMtr",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1s2d7-eiNa24uM4prUn_KpoFIXqtZvZax",
+      "drive_link": "https://drive.google.com/file/d/1s2d7-eiNa24uM4prUn_KpoFIXqtZvZax/view",
+      "analysis": {
+        "category": "DIY / Woodworking",
+        "project": "DIY Hand Saw Tool",
+        "summary": "The creator fabricates a makeshift hand saw by repurposing a metal hinge to hold a section of a jigsaw blade, creating a functional handle for small wood cutting tasks.",
+        "materials": [
+          "metal hinge",
+          "jigsaw blade (wood cutting)",
+          "wood block"
+        ],
+        "tools": [
+          "screwdriver",
+          "F-clamp"
+        ],
+        "viral_hook": "Stop throwing away old jigsaw blades! Turn them into the ultimate pocket-sized hand saw with just a spare hinge."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "MN78wARYaOE",
+        "uploaded_at": "2026-06-04T00:15:16.842190",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -720,6 +738,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T00:15:13.198652",
+      "source_deleted": "2026-06-04T00:15:13.202292"
     }
   },
   {
