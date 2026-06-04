@@ -3296,17 +3296,38 @@
     "source": {
       "filename": "(Wood)(920) Reels_YB_Bundle.mp4",
       "drive_file_id": "1RxxhxQlagBUCgDBe2B-UvPzgtmuS33wd",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "14wEIP1lgbTH3EjWwSxWbs8wpHggIkmwq",
+      "drive_link": "https://drive.google.com/file/d/14wEIP1lgbTH3EjWwSxWbs8wpHggIkmwq/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Reinforced Miter Joint",
+        "summary": "A DIY woodworking tutorial demonstrating how to create and strengthen a miter joint using wooden dowel reinforcement.",
+        "materials": [
+          "Wood pieces",
+          "Wood glue",
+          "Wooden dowel"
+        ],
+        "tools": [
+          "Steel ruler",
+          "Hand saw",
+          "Drill",
+          "Clamp",
+          "Bench vise"
+        ],
+        "viral_hook": "Stop making weak corner joints! Here is the pro trick to making them unbreakable."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "dTAEwwTV9Vw",
+        "uploaded_at": "2026-06-04T22:41:59.240393",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3320,6 +3341,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T22:41:54.763528",
+      "source_deleted": "2026-06-04T22:41:54.766547"
     }
   },
   {
