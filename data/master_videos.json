@@ -2975,17 +2975,32 @@
     "source": {
       "filename": "(Wood)(911) Reels_YB_Bundle.mp4",
       "drive_file_id": "1iKCvXZAarN8_DDRr8SDyLuzduWLmsVB8",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1X5cbJoCwuFlfX1z611Ag2HMoBxI_e-RD",
+      "drive_link": "https://drive.google.com/file/d/1X5cbJoCwuFlfX1z611Ag2HMoBxI_e-RD/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Timber joinery or furniture construction",
+        "summary": "The video demonstrates using a circular saw to make precise plunge cuts along a marked line on a large piece of timber, effectively creating a clean channel or joint cutout.",
+        "materials": [
+          "Hardwood timber beam"
+        ],
+        "tools": [
+          "Bosch circular saw"
+        ],
+        "viral_hook": "See how professional precision makes complex joinery look effortless."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "hwYFCyREqHw",
+        "uploaded_at": "2026-06-04T18:36:17.080036",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2999,6 +3014,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T18:36:12.780390",
+      "source_deleted": "2026-06-04T18:36:12.784262"
     }
   },
   {
