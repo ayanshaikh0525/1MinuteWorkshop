@@ -262,17 +262,37 @@
     "source": {
       "filename": "(Wood)(714) Reels_YB_Bundle.mp4",
       "drive_file_id": "1yxH4RZmK00l_Oh4fHGkiyR4dqugu9RrT",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1AZnl0btouGewdeLWdsP0aOgwTiWvhK9I",
+      "drive_link": "https://drive.google.com/file/d/1AZnl0btouGewdeLWdsP0aOgwTiWvhK9I/view",
+      "analysis": {
+        "category": "DIY Crafts",
+        "project": "Whittled Wooden Heart",
+        "summary": "A step-by-step process of crafting a small, stylized heart ornament from a wooden block using whittling techniques, followed by painting and finishing.",
+        "materials": [
+          "Wooden block",
+          "Paint (red, black, pink)"
+        ],
+        "tools": [
+          "Wood chisel",
+          "Compass",
+          "Pencil",
+          "Paintbrush",
+          "Tweezers"
+        ],
+        "viral_hook": "Watch this block of wood transform into the cutest, most satisfying handmade heart you've ever seen."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Rvmewvz80EI",
+        "uploaded_at": "2026-06-05T17:58:53.819113",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -286,6 +306,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T17:58:49.952255",
+      "source_deleted": "2026-06-05T17:58:49.956542"
     }
   },
   {
