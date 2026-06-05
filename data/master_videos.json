@@ -910,17 +910,37 @@
     "source": {
       "filename": "(Wood)(84) Reels_YB_Bundle.mp4",
       "drive_file_id": "1xLLdpYRs0vGbVGLxGXUnG9C4nAqPOlSE",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "16OkFBIMSzgQshqQbgEDpxdKTG5x4zfgG",
+      "drive_link": "https://drive.google.com/file/d/16OkFBIMSzgQshqQbgEDpxdKTG5x4zfgG/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Miter joint picture frame construction",
+        "summary": "This video demonstrates the process of creating a wooden miter joint. The maker prepares pieces of wood, uses a DIY wooden miter box to secure the stock, cuts the angled edges with a handsaw, and uses a combination square to ensure accuracy for a precise corner fit.",
+        "materials": [
+          "Hardwood planks",
+          "Wooden block (for miter box)"
+        ],
+        "tools": [
+          "Hand saw",
+          "Combination square",
+          "Pencil",
+          "Clamps",
+          "DIY wooden miter box"
+        ],
+        "viral_hook": "Stop struggling with crooked picture frames—this simple DIY tool makes perfect miter joints every time."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "KzFlCNmk-qU",
+        "uploaded_at": "2026-06-05T12:12:42.397071",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -934,6 +954,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T12:12:37.813930",
+      "source_deleted": "2026-06-05T12:12:37.817979"
     }
   },
   {
