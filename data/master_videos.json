@@ -849,17 +849,38 @@
     "source": {
       "filename": "(Wood)(833) Reels_YB_Bundle.mp4",
       "drive_file_id": "1i0WAPKJ6fvnxjF14V5RFjbnHRNmhYGDH",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "16Elz-CGoDlvsW4O7xoW1qB-hjU1PRd5a",
+      "drive_link": "https://drive.google.com/file/d/16Elz-CGoDlvsW4O7xoW1qB-hjU1PRd5a/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Joinery technique / Wood connection",
+        "summary": "A demonstration of a precise wood joinery method, starting with marking the joint, sawing multiple relief cuts, removing the waste material with a chisel, drilling holes, and securing the pieces together with wooden dowels and glue.",
+        "materials": [
+          "Wood boards",
+          "Wooden dowels",
+          "Wood glue"
+        ],
+        "tools": [
+          "Hand saw",
+          "Wood chisel",
+          "Try square",
+          "Pencil",
+          "Drill bit (spade bit or similar)"
+        ],
+        "viral_hook": "Stop struggling with weak joints: this simple trick makes your woodworking projects rock-solid!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "O4TbhvKo0M4",
+        "uploaded_at": "2026-06-05T20:06:05.875935",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -873,6 +894,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T20:06:00.667765",
+      "source_deleted": "2026-06-05T20:06:00.671691"
     }
   },
   {
