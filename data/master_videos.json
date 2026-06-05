@@ -1220,17 +1220,40 @@
     "source": {
       "filename": "(Wood)(857) Reels_YB_Bundle.mp4",
       "drive_file_id": "1k1WsXecTytnvF3arrohLLNOIDemUxbQW",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "11A11tuc42MNtwGl3xyvHV0JdJsrWxf06",
+      "drive_link": "https://drive.google.com/file/d/11A11tuc42MNtwGl3xyvHV0JdJsrWxf06/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "DIY Furniture or Joinery Construction",
+        "summary": "The video demonstrates various woodworking techniques including drilling, cutting, precise joinery, and the use of structural bolts and wedges to secure wooden components.",
+        "materials": [
+          "Wood blocks",
+          "Plywood sheet",
+          "Metal bolt"
+        ],
+        "tools": [
+          "Vise",
+          "Power drill",
+          "Hole saw bit",
+          "Metal pliers",
+          "Angle grinder",
+          "Steel ruler",
+          "Pencil"
+        ],
+        "viral_hook": "Master the art of hidden DIY joinery with these professional techniques that turn simple wood blocks into sturdy furniture."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "OkEEPQGFHYA",
+        "uploaded_at": "2026-06-05T08:52:32.645619",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1244,6 +1267,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T08:52:27.798172",
+      "source_deleted": "2026-06-05T08:52:27.801983"
     }
   },
   {
