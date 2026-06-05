@@ -66,17 +66,35 @@
     "source": {
       "filename": "(Wood)(584) Reels_YB_Bundle.mp4",
       "drive_file_id": "18lpa9k1MhOvpuL7jLaiZMlHIpbgo-hR1",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1AZJgJiGgvhV6OeP0CNkbg9rALJr3CnW8",
+      "drive_link": "https://drive.google.com/file/d/1AZJgJiGgvhV6OeP0CNkbg9rALJr3CnW8/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Hand-carved wooden fox figurine",
+        "summary": "A step-by-step demonstration of carving a stylized, sleeping fox figurine from a block of wood, including the shaping process and final painting details.",
+        "materials": [
+          "Wood block",
+          "Paint"
+        ],
+        "tools": [
+          "Chisel",
+          "Carving knife",
+          "Paintbrush"
+        ],
+        "viral_hook": "Watch this block of wood transform into the most adorable sleeping fox you've ever seen."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "AmFORTdpHYE",
+        "uploaded_at": "2026-06-05T04:58:46.801851",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -90,6 +108,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T04:58:42.644914",
+      "source_deleted": "2026-06-05T04:58:42.648804"
     }
   },
   {
