@@ -2832,17 +2832,33 @@
     "source": {
       "filename": "(Wood)(904) Reels_YB_Bundle.mp4",
       "drive_file_id": "18OUdnoKd9F-_q34AZp5H9LQ3nuT_nTw1",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "15hUu9h4tC0_M7TLlgK8pZ5w8zjq5ulzm",
+      "drive_link": "https://drive.google.com/file/d/15hUu9h4tC0_M7TLlgK8pZ5w8zjq5ulzm/view",
+      "analysis": {
+        "category": "DIY / Woodworking",
+        "project": "Removing nails from wood",
+        "summary": "A demonstration of a clever technique for removing nails from wooden boards by using a hammer to leverage the nails out, even when they are bent or difficult to reach.",
+        "materials": [
+          "wooden board",
+          "metal nails"
+        ],
+        "tools": [
+          "claw hammer"
+        ],
+        "viral_hook": "Stop struggling to remove nails! This simple leverage trick will change how you work with wood forever."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "v9mK01dylkA",
+        "uploaded_at": "2026-06-05T15:36:30.221628",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2856,6 +2872,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T15:36:25.977145",
+      "source_deleted": "2026-06-05T15:36:25.981385"
     }
   },
   {
