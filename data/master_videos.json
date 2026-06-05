@@ -2571,17 +2571,36 @@
     "source": {
       "filename": "(Wood)(893) Reels_YB_Bundle.mp4",
       "drive_file_id": "1nlqa82zisLrfNSHlFAccJrm47ZuiARzO",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1y5EsoII-QRxSbY0Fp_iYCs1pbrngZQsh",
+      "drive_link": "https://drive.google.com/file/d/1y5EsoII-QRxSbY0Fp_iYCs1pbrngZQsh/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Wood joinery and reinforcing with glue",
+        "summary": "The video demonstrates a step-by-step process of joining two pieces of wood. It involves applying wood glue to the joining surface, securing the pieces together, driving nails for mechanical connection, and finishing the joint with an additional layer of glue using a syringe applicator.",
+        "materials": [
+          "Wood boards",
+          "Wood glue",
+          "Nails"
+        ],
+        "tools": [
+          "Hammer",
+          "Syringe applicator",
+          "Clamps"
+        ],
+        "viral_hook": "Stop wasting wood! This pro-level trick makes your joints unbreakable."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "g3ac3X5G4W4",
+        "uploaded_at": "2026-06-05T23:19:12.692450",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2595,6 +2614,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T23:19:08.624491",
+      "source_deleted": "2026-06-05T23:19:08.627717"
     }
   },
   {
