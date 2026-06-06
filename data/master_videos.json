@@ -2766,17 +2766,36 @@
     "source": {
       "filename": "(Wood)(895) Reels_YB_Bundle.mp4",
       "drive_file_id": "1bH5RmzgwCEf_Ls7mPtHsbhNZgFKM-IuH",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1_RoHr2LjY2n4klaOiar5HxEYtVlMJ5UU",
+      "drive_link": "https://drive.google.com/file/d/1_RoHr2LjY2n4klaOiar5HxEYtVlMJ5UU/view",
+      "analysis": {
+        "category": "DIY / Home Improvement",
+        "project": "Cable Management or Securing Conduit to Wood",
+        "summary": "The video demonstrates a simple DIY technique for securing an orange cable/conduit to a piece of wood using a wing nut, a screw, and zip ties. By fastening the wing nut to the wood with a screw, the user is able to loop zip ties through the wings of the nut to anchor the cable securely in place.",
+        "materials": [
+          "Wood board",
+          "Wing nut",
+          "Screw",
+          "Zip ties",
+          "Orange conduit/cable"
+        ],
+        "tools": [
+          "Power drill or screwdriver"
+        ],
+        "viral_hook": "Stop struggling to secure your cables! This 5-cent hack is a game changer for your workshop."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "dkxPJ7qaL_Q",
+        "uploaded_at": "2026-06-06T20:12:01.265314",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2790,6 +2809,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T20:11:57.733293",
+      "source_deleted": "2026-06-06T20:11:57.737680"
     }
   },
   {
