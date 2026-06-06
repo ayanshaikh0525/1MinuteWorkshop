@@ -2420,17 +2420,35 @@
     "source": {
       "filename": "(Wood)(889) Reels_YB_Bundle.mp4",
       "drive_file_id": "19Vn47kWxJV7Z0obTzt5HVBIgEXmucmrn",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1SaT3BCS3wyHPjdf3hKOq3BLTSvYXjt7M",
+      "drive_link": "https://drive.google.com/file/d/1SaT3BCS3wyHPjdf3hKOq3BLTSvYXjt7M/view",
+      "analysis": {
+        "category": "DIY / Home Improvement",
+        "project": "Cable Stripping and Organizing Guide",
+        "summary": "A DIY technique demonstrating how to strip the outer insulation from an electrical cable by securing it between two screws driven into a wooden block, acting as a guide to peel away the protective layer.",
+        "materials": [
+          "Wooden block",
+          "Electrical cable",
+          "Two screws"
+        ],
+        "tools": [
+          "Screwdriver",
+          "Utility knife or chisel"
+        ],
+        "viral_hook": "Stop struggling to strip wires! This simple DIY trick makes it incredibly easy."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qTQjxJtBU0E",
+        "uploaded_at": "2026-06-06T01:30:13.680196",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2444,6 +2462,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T01:30:09.058603",
+      "source_deleted": "2026-06-06T01:30:09.062934"
     }
   },
   {
