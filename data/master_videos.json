@@ -2791,17 +2791,33 @@
     "source": {
       "filename": "(Wood)(898) Reels_YB_Bundle.mp4",
       "drive_file_id": "1q3QKniZBMRZJBAVp8X3WcRwuHhpeSwg9",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1iX3JVV_nvKVxCodmV4fxK9IQJFwnq8Ij",
+      "drive_link": "https://drive.google.com/file/d/1iX3JVV_nvKVxCodmV4fxK9IQJFwnq8Ij/view",
+      "analysis": {
+        "category": "DIY/Woodworking",
+        "project": "Hammering technique demonstration",
+        "summary": "A quick visual guide demonstrating the correct way to hammer a nail into a wooden board to prevent it from bending. The video shows a comparison between a poorly executed nail (bent) and a properly driven nail.",
+        "materials": [
+          "Wooden board",
+          "Nails"
+        ],
+        "tools": [
+          "Hammer"
+        ],
+        "viral_hook": "Stop bending your nails! Here is the right way to do it."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "1MLUUoeuarY",
+        "uploaded_at": "2026-06-06T10:56:09.745847",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2815,6 +2831,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T10:56:02.067680",
+      "source_deleted": "2026-06-06T10:56:02.072480"
     }
   },
   {
