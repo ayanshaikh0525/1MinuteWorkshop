@@ -2248,17 +2248,32 @@
     "source": {
       "filename": "(Wood)(882) Reels_YB_Bundle.mp4",
       "drive_file_id": "1N1z50-eNUKiVA8tVICRqX7fTQZxvghHw",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1MRi_VJZ8CrU44yeJG7i_QEKeRSjdLsm2",
+      "drive_link": "https://drive.google.com/file/d/1MRi_VJZ8CrU44yeJG7i_QEKeRSjdLsm2/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Wedged mortise and tenon joint",
+        "summary": "A demonstrative video showing the assembly of a wedged mortise and tenon joint. A wooden wedge is inserted into a pre-cut slot in the tenon to expand it as it is seated into the mortise, creating a tight, mechanical lock.",
+        "materials": [
+          "Wood beam (mortise piece)",
+          "Wooden stick/tenon (tenon piece)",
+          "Wooden wedge"
+        ],
+        "tools": [],
+        "viral_hook": "The satisfying click of a perfectly fitted, ancient woodworking secret."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "epx-_csebHk",
+        "uploaded_at": "2026-06-06T17:18:59.522157",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2272,6 +2287,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T17:18:55.769354",
+      "source_deleted": "2026-06-06T17:18:55.773697"
     }
   },
   {
