@@ -3670,17 +3670,42 @@
     "source": {
       "filename": "(Wood)(939) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Ki22B9GukEN90WUJFaJKA-GpSSW0acXH",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1cXlS_dIWd6vEfIg-Yp6w-pGUUKt6cMOy",
+      "drive_link": "https://drive.google.com/file/d/1cXlS_dIWd6vEfIg-Yp6w-pGUUKt6cMOy/view",
+      "analysis": {
+        "category": "DIY Tool Fabrication",
+        "project": "Handmade rotary wood rasp/sander",
+        "summary": "The creator fabricates a custom rotary rasp tool by repurposing metal washers and a sheet of punched metal, attaching them to a wooden dowel core with a threaded rod and nut assembly for use in a drill.",
+        "materials": [
+          "Metal washers",
+          "Punched/perforated metal sheet",
+          "Wooden dowel",
+          "Threaded rod",
+          "Nut",
+          "Screws"
+        ],
+        "tools": [
+          "Bench vise",
+          "Drill",
+          "Drill bits",
+          "Staple gun",
+          "Pliers",
+          "Center punch"
+        ],
+        "viral_hook": "Stop throwing away scrap metal—you can turn trash into this incredibly useful power tool."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0ELSD8BEnRE",
+        "uploaded_at": "2026-06-06T23:09:11.713656",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3694,6 +3719,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T23:08:57.762194",
+      "source_deleted": "2026-06-06T23:08:57.766683"
     }
   },
   {
