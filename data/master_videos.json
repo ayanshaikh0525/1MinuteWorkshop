@@ -703,17 +703,33 @@
     "source": {
       "filename": "(Wood)(801) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Ympsg9xDp33QG9jlPoG8LbD59heyOtM4",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1w6_O-T4TlIgwthrG3AFW0iWQYB41l2oK",
+      "drive_link": "https://drive.google.com/file/d/1w6_O-T4TlIgwthrG3AFW0iWQYB41l2oK/view",
+      "analysis": {
+        "category": "Woodworking / DIY Craft",
+        "project": "Whittling a wooden pickle",
+        "summary": "A creator uses a sharp chisel to carve a block of wood into the shape of a pickle, then paints it green for the final reveal.",
+        "materials": [
+          "Wooden block",
+          "Green paint/stain"
+        ],
+        "tools": [
+          "Chisel"
+        ],
+        "viral_hook": "Watch me carve this block of wood into... a pickle?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "kbR7TWHgQTQ",
+        "uploaded_at": "2026-06-06T05:36:32.576815",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -727,6 +743,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T05:36:28.901573",
+      "source_deleted": "2026-06-06T05:36:28.916747"
     }
   },
   {
