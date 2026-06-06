@@ -1371,17 +1371,41 @@
     "source": {
       "filename": "(Wood)(858) Reels_YB_Bundle.mp4",
       "drive_file_id": "1dXj6u0ExxjIH0vwU9jqXjAKFFNEcmEq7",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1yJeL-8UoddxN88SLlnxjRh7ifWrTiCMi",
+      "drive_link": "https://drive.google.com/file/d/1yJeL-8UoddxN88SLlnxjRh7ifWrTiCMi/view",
+      "analysis": {
+        "category": "DIY / Home Improvement",
+        "project": "Woodworking and Metalworking Tips",
+        "summary": "A compilation of DIY workshop hacks, demonstrating techniques for wood joinery, screw installation, metal chain link cutting, and using a threading die set to clean or create screw threads.",
+        "materials": [
+          "Wood pieces",
+          "Metal chain link",
+          "Metal rod/bolt",
+          "Screws"
+        ],
+        "tools": [
+          "Clamps",
+          "Drill",
+          "Drill bits",
+          "Pliers",
+          "Vise",
+          "Wrench",
+          "Tap and die set"
+        ],
+        "viral_hook": "Stop making these common DIY mistakes! Watch these genius shop hacks."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "bbpNXn1NDEw",
+        "uploaded_at": "2026-06-06T12:09:18.689215",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1395,6 +1419,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T12:09:13.683969",
+      "source_deleted": "2026-06-06T12:09:13.688473"
     }
   },
   {
