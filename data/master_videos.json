@@ -2033,17 +2033,34 @@
     "source": {
       "filename": "(Wood)(875) Reels_YB_Bundle.mp4",
       "drive_file_id": "1EErJX9MsP6N2NmfrlYsW5Dy29ZgMy-kX",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "14k1DIUIrt54aJtjrh_XArxB9tfBxXikq",
+      "drive_link": "https://drive.google.com/file/d/14k1DIUIrt54aJtjrh_XArxB9tfBxXikq/view",
+      "analysis": {
+        "category": "DIY/Woodworking Hacks",
+        "project": "Removing a broken screw extractor or headless screw",
+        "summary": "The video demonstrates a creative DIY method for removing a difficult, embedded screw by utilizing a plastic zip tie to help grip and rotate the fastener out of a wooden hole.",
+        "materials": [
+          "Wooden board",
+          "Embedded metal screw",
+          "Plastic zip tie"
+        ],
+        "tools": [
+          "Screwdriver or power drill"
+        ],
+        "viral_hook": "Stop throwing away projects because of a stripped or broken screw—try this viral hack instead!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "QWQUPakGl5s",
+        "uploaded_at": "2026-06-07T11:51:15.565682",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2057,6 +2074,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T11:51:11.776359",
+      "source_deleted": "2026-06-07T11:51:11.780632"
     }
   },
   {
