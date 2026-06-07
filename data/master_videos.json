@@ -1760,17 +1760,39 @@
     "source": {
       "filename": "(Wood)(866) Reels_YB_Bundle.mp4",
       "drive_file_id": "1zPF35DTRoKFTwES7zJroZ0vIsvr65bd9",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "19KG8uprsgpdcqSXsiJ9oNQQ2IqKbEnVs",
+      "drive_link": "https://drive.google.com/file/d/19KG8uprsgpdcqSXsiJ9oNQQ2IqKbEnVs/view",
+      "analysis": {
+        "category": "DIY / Life Hacks",
+        "project": "Improvised tool making from scrap materials",
+        "summary": "This video demonstrates a DIY process for creating a makeshift sanding/grinding tool. It involves using a screw, a metal bottle cap, and a piece of wood, combined with power tool components to create a rotary abrasive attachment for wood or metal working.",
+        "materials": [
+          "Screw",
+          "Metal bottle cap",
+          "Wood block",
+          "Wire",
+          "Sandpaper/Abrasive material"
+        ],
+        "tools": [
+          "Drill",
+          "Vise",
+          "Pliers",
+          "Clamps"
+        ],
+        "viral_hook": "Stop throwing away your trash! Turn simple household junk into professional-grade workshop tools."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "TCoqe3DGVnE",
+        "uploaded_at": "2026-06-07T20:16:05.304157",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1784,6 +1806,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T20:15:53.112377",
+      "source_deleted": "2026-06-07T20:15:53.115027"
     }
   },
   {
