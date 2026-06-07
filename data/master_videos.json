@@ -579,17 +579,39 @@
     "source": {
       "filename": "(Wood)(78) Reels_YB_Bundle.mp4",
       "drive_file_id": "1jRPPQaOnDjFXmB4hXoxOQkHAm784nbp1",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1QYFQcNXqq0OY8rhqYSTZkjdDRQCkBVq-",
+      "drive_link": "https://drive.google.com/file/d/1QYFQcNXqq0OY8rhqYSTZkjdDRQCkBVq-/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Wood plug/dowel repair for furniture frame",
+        "summary": "The process involves marking and sawing a wooden wedge, inserting it into a hole in a furniture frame for repair, applying glue, trimming the excess with a chisel, and sanding it flush for a seamless finish.",
+        "materials": [
+          "Wood block",
+          "Wood glue",
+          "Sandpaper"
+        ],
+        "tools": [
+          "Pencil",
+          "Metal ruler",
+          "Vise",
+          "Hand saw",
+          "Drill bit",
+          "Chisel"
+        ],
+        "viral_hook": "Stop throwing away damaged furniture—this simple trick makes it look brand new in minutes."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "0Dp0aY1BqPM",
+        "uploaded_at": "2026-06-07T17:23:06.378784",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -603,6 +625,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T17:22:49.380503",
+      "source_deleted": "2026-06-07T17:22:49.385046"
     }
   },
   {
