@@ -3139,17 +3139,30 @@
     "source": {
       "filename": "(Wood)(906) Reels_YB_Bundle.mp4",
       "drive_file_id": "1dnhuiLRH0Oz-eP8bpS5tvWxbgVUncm7Z",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1U3umTx6gD1vXPTuJznHBsFg9CyIkeYQp",
+      "drive_link": "https://drive.google.com/file/d/1U3umTx6gD1vXPTuJznHBsFg9CyIkeYQp/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Wood joinery demonstration",
+        "summary": "This video shows the final step of a complex decorative woodworking joint, where a central pointed piece is inserted into a gap between two angled wooden slats to create a seamless, tight fit.",
+        "materials": [
+          "Wood planks"
+        ],
+        "tools": [],
+        "viral_hook": "The satisfying precision of a perfect wood joinery fit."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BMdVMbTz51A",
+        "uploaded_at": "2026-06-07T01:38:19.626808",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3163,6 +3176,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T01:38:15.965724",
+      "source_deleted": "2026-06-07T01:38:15.970422"
     }
   },
   {
