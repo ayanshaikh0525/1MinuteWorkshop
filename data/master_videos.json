@@ -1597,17 +1597,35 @@
     "source": {
       "filename": "(Wood)(863) Reels_YB_Bundle.mp4",
       "drive_file_id": "1XL7zjflfl1MWQCRGhvBRgV-gtnooFPCI",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1tnmwSMDgfr8i43UNh4qedjb6sPdJUGLs",
+      "drive_link": "https://drive.google.com/file/d/1tnmwSMDgfr8i43UNh4qedjb6sPdJUGLs/view",
+      "analysis": {
+        "category": "DIY / Home Improvement",
+        "project": "Securing a wire cable to a wooden surface",
+        "summary": "The video demonstrates how to attach a steel cable loop to a piece of wood using a washer and a screw driven by an electric drill.",
+        "materials": [
+          "Wooden board",
+          "Steel cable with a looped end",
+          "Metal washer",
+          "Screw"
+        ],
+        "tools": [
+          "Electric drill / Power screwdriver"
+        ],
+        "viral_hook": "Stop struggling to secure wire cables—this simple trick makes it rock solid!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "tuXGKrkYwQg",
+        "uploaded_at": "2026-06-07T09:48:52.999439",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1621,6 +1639,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T09:48:33.419481",
+      "source_deleted": "2026-06-07T09:48:33.423974"
     }
   },
   {
