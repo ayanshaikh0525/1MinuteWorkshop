@@ -1060,17 +1060,34 @@
     "source": {
       "filename": "(Wood)(841) Reels_YB_Bundle.mp4",
       "drive_file_id": "1eavUrr0D-JzxFZ9tsFF53mCLhiEo83G5",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1Rj9z4bwgkthONKD-RnCxzX45C_oJOyFp",
+      "drive_link": "https://drive.google.com/file/d/1Rj9z4bwgkthONKD-RnCxzX45C_oJOyFp/view",
+      "analysis": {
+        "category": "Woodworking / DIY",
+        "project": "Precision miter joint cutting",
+        "summary": "A guide on how to accurately measure, mark, and cut a 45-degree angle (miter) on a piece of plywood using a combination square and a hand saw.",
+        "materials": [
+          "Plywood sheet"
+        ],
+        "tools": [
+          "Combination square",
+          "Marker/Pen",
+          "Hand saw"
+        ],
+        "viral_hook": "Stop struggling with crooked cuts! Here is the professional way to mark and cut a perfect 45-degree angle every single time."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "5qGG8ATiF1M",
+        "uploaded_at": "2026-06-07T23:09:50.977366",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1084,6 +1101,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T23:09:38.430575",
+      "source_deleted": "2026-06-07T23:09:38.435304"
     }
   },
   {
