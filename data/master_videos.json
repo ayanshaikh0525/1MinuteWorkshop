@@ -3550,17 +3550,33 @@
     "source": {
       "filename": "(Wood)(916) Reels_YB_Bundle.mp4",
       "drive_file_id": "1zYd42RaW-w02siGSIfKh3H3aOoG-ksj2",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1eOr0eViIU3vo_dANL1gcfdh9YOlmxDSz",
+      "drive_link": "https://drive.google.com/file/d/1eOr0eViIU3vo_dANL1gcfdh9YOlmxDSz/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Decorative Wood Joinery / Decorative Cross-Cut Joint",
+        "summary": "A step-by-step demonstration of marking and cutting wood pieces to create a decorative interlocking geometric joint.",
+        "materials": [
+          "Wooden planks"
+        ],
+        "tools": [
+          "Marker pen",
+          "Metal ruler/straight edge"
+        ],
+        "viral_hook": "Stop making boring wood joints—try this instead."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "HvrOl-lQel8",
+        "uploaded_at": "2026-06-07T14:00:28.879434",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3574,6 +3590,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:00:15.792721",
+      "source_deleted": "2026-06-07T14:00:15.797138"
     }
   },
   {
