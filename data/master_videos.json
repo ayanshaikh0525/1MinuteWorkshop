@@ -1504,17 +1504,35 @@
     "source": {
       "filename": "(Wood)(860) Reels_YB_Bundle.mp4",
       "drive_file_id": "1rgAik_ch4_hoOLNZ1gtUynWaWpMsb8sU",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1DlmzYWDWqJtWkGR6NqkLlZ0Sme7kRSOr",
+      "drive_link": "https://drive.google.com/file/d/1DlmzYWDWqJtWkGR6NqkLlZ0Sme7kRSOr/view",
+      "analysis": {
+        "category": "DIY / Maintenance",
+        "project": "Custom rotary brush tool for cleaning metal chains",
+        "summary": "The creator fashions a small, custom wire brush attachment for a power drill by inserting a piece of steel cable into a length of heat-shrink tubing, heating it to secure the shape, and then mounting the assembly into the drill chuck to clean a bicycle or motorcycle chain.",
+        "materials": [
+          "Steel cable",
+          "Heat-shrink tubing"
+        ],
+        "tools": [
+          "Wire cutters",
+          "Lighter",
+          "Power drill / cordless screwdriver"
+        ],
+        "viral_hook": "Stop throwing away your old cables! See this genius DIY drill attachment hack."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4Aff_SKBdFA",
+        "uploaded_at": "2026-06-07T15:40:31.876459",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1528,6 +1546,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T15:39:57.228083",
+      "source_deleted": "2026-06-07T15:39:57.232688"
     }
   },
   {
