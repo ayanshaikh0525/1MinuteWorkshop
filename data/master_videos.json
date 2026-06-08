@@ -3179,17 +3179,36 @@
     "source": {
       "filename": "(Wood)(902) Reels_YB_Bundle.mp4",
       "drive_file_id": "1l0qQ0OZgxJ6IC5LGkMblUsiqP465IuWn",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1i6XgCbWTuNxyC58DJ9iCVSvXNoz888Is",
+      "drive_link": "https://drive.google.com/file/d/1i6XgCbWTuNxyC58DJ9iCVSvXNoz888Is/view",
+      "analysis": {
+        "category": "DIY/Home Improvement",
+        "project": "Drilling a hole in a metal pipe using a nut as a guide",
+        "summary": "The video demonstrates a clever workshop trick: using a standard hexagonal nut as a stabilizer/guide to prevent a drill bit from slipping when starting a hole on the curved surface of a cylindrical metal pipe.",
+        "materials": [
+          "Metal pipe",
+          "Hexagonal nut"
+        ],
+        "tools": [
+          "Drill",
+          "Drill bit",
+          "Wrench",
+          "Screwdriver"
+        ],
+        "viral_hook": "Stop struggling to drill holes in round pipes! This simple hack keeps your bit perfectly centered every time."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "m6TCBb5z6vg",
+        "uploaded_at": "2026-06-08T19:24:39.613947",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3203,6 +3222,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T19:24:05.084773",
+      "source_deleted": "2026-06-08T19:24:05.089397"
     }
   },
   {
