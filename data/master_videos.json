@@ -3838,17 +3838,42 @@
     "source": {
       "filename": "(Wood)(918) Reels_YB_Bundle.mp4",
       "drive_file_id": "1Bn284QVQfe69n2hYVEUEosnZCEgd7Be1",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1Y8doJJ3q0RdIwHuzPYO7HdQbT7BYqUQu",
+      "drive_link": "https://drive.google.com/file/d/1Y8doJJ3q0RdIwHuzPYO7HdQbT7BYqUQu/view",
+      "analysis": {
+        "category": "DIY Woodworking Hacks",
+        "project": "Various Woodworking and Fastening Tips",
+        "summary": "A collection of short, practical DIY tips showcasing clever methods for wood projects, including wall anchor installation, using binder clips for clamping, and alternative fastening techniques with nails, screws, and hardware.",
+        "materials": [
+          "Wood blocks",
+          "Wall anchors",
+          "Screws",
+          "Nails",
+          "Washers",
+          "Metal chain",
+          "Binder clips"
+        ],
+        "tools": [
+          "Cordless drill/driver",
+          "Drill bits",
+          "Vise",
+          "Pliers",
+          "Wrench"
+        ],
+        "viral_hook": "Stop struggling with your wood projects! These 5 genius DIY hacks will save you time and frustration."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "W_aZFI8k-gk",
+        "uploaded_at": "2026-06-08T22:59:31.956503",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3862,6 +3887,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T22:59:25.521718",
+      "source_deleted": "2026-06-08T22:59:25.526544"
     }
   },
   {
