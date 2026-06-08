@@ -3292,17 +3292,34 @@
     "source": {
       "filename": "(Wood)(905) Reels_YB_Bundle.mp4",
       "drive_file_id": "1TDDiTqXAumfKKJXJgkWA7TKV4qZwaWgo",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1zzG95TbLgYcaS2GF2i7fXty63im9eelw",
+      "drive_link": "https://drive.google.com/file/d/1zzG95TbLgYcaS2GF2i7fXty63im9eelw/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Joinery marking for a wooden furniture component",
+        "summary": "A woodworker is shown using a metal ruler and pencil to measure and mark a mortise or joint location on a piece of plywood in alignment with a vertical wooden post.",
+        "materials": [
+          "Plywood sheet",
+          "Wooden lumber/post"
+        ],
+        "tools": [
+          "Metal ruler",
+          "Pencil"
+        ],
+        "viral_hook": "The secret to perfect joinery starts with these precise markings."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "up7DnuGOovA",
+        "uploaded_at": "2026-06-08T16:36:26.165794",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3316,6 +3333,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T16:36:22.004835",
+      "source_deleted": "2026-06-08T16:36:22.009549"
     }
   },
   {
