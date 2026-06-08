@@ -2873,17 +2873,37 @@
     "source": {
       "filename": "(Wood)(894) Reels_YB_Bundle.mp4",
       "drive_file_id": "1zSKbajWhtuGgG8BM0SiGZXtIVz_XyhUE",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1a3nPmKU7w-qmiiZGA38cAlC-7w-MUX6c",
+      "drive_link": "https://drive.google.com/file/d/1a3nPmKU7w-qmiiZGA38cAlC-7w-MUX6c/view",
+      "analysis": {
+        "category": "Woodworking",
+        "project": "Wood joinery and repair",
+        "summary": "A demonstration of a structural wood repair or joinery technique where a gap between two angled pieces of wood is filled with glue, clamped, and then further secured using a screw driven into the joint and a nail.",
+        "materials": [
+          "Wood planks",
+          "Wood glue",
+          "Screw",
+          "Nail"
+        ],
+        "tools": [
+          "Clamps",
+          "Power drill",
+          "Hammer"
+        ],
+        "viral_hook": "Stop throwing away split wood! Here's the professional secret to fixing it."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ICnRwqocrfY",
+        "uploaded_at": "2026-06-08T01:42:17.882264",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2897,6 +2917,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T01:42:13.342604",
+      "source_deleted": "2026-06-08T01:42:13.346334"
     }
   },
   {
