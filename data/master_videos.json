@@ -2615,17 +2615,34 @@
     "source": {
       "filename": "(Wood)(888) Reels_YB_Bundle.mp4",
       "drive_file_id": "1gY68U_QaxMJ7-0-j2C1o1WHYa6kv3Ltk",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1AlltDpAIagxRCxuzONwdrzSK4fi9b99I",
+      "drive_link": "https://drive.google.com/file/d/1AlltDpAIagxRCxuzONwdrzSK4fi9b99I/view",
+      "analysis": {
+        "category": "DIY / Woodworking",
+        "project": "Tool Hack: Removing a stripped or damaged screw",
+        "summary": "Demonstration of a hack to remove a screw by using a flathead screwdriver as a lever while simultaneously using a power drill to back the screw out of the wooden block.",
+        "materials": [
+          "Wood block",
+          "Screw"
+        ],
+        "tools": [
+          "Power drill",
+          "Flathead screwdriver"
+        ],
+        "viral_hook": "Stop struggling with stuck screws! This simple trick removes them in seconds."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qvV7O1Sa3Ys",
+        "uploaded_at": "2026-06-08T21:23:35.167349",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2639,6 +2656,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T21:23:29.365864",
+      "source_deleted": "2026-06-08T21:23:29.370628"
     }
   },
   {
