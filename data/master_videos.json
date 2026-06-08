@@ -3013,17 +3013,35 @@
     "source": {
       "filename": "(Wood)(897) Reels_YB_Bundle.mp4",
       "drive_file_id": "1L2GN1TvJb-U7qLlkZsepX3BwxQ67t4-V",
-      "deleted": false
+      "deleted": true
     },
     "processed": {
-      "exists": false,
-      "drive_file_id": "",
-      "analysis": {}
+      "exists": true,
+      "drive_file_id": "1J_LarC8kltyFEAaGm_A-HQVQJL1FTFW_",
+      "drive_link": "https://drive.google.com/file/d/1J_LarC8kltyFEAaGm_A-HQVQJL1FTFW_/view",
+      "analysis": {
+        "category": "DIY / Woodworking",
+        "project": "Woodworking fastening technique",
+        "summary": "A demonstration of why driving a screw directly into the end grain of a narrow piece of wood without pre-drilling causes the material to split.",
+        "materials": [
+          "Wood block"
+        ],
+        "tools": [
+          "Power drill",
+          "Screws",
+          "Clamp",
+          "Pliers"
+        ],
+        "viral_hook": "Stop ruining your projects! Here's why your wood keeps splitting."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "izoJGzMB3Ag",
+        "uploaded_at": "2026-06-08T12:01:11.478683",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3037,6 +3055,10 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T12:01:07.601467",
+      "source_deleted": "2026-06-08T12:01:07.606161"
     }
   },
   {
